@@ -371,7 +371,7 @@ export default function Home() {
             Its an NFT collection for developers in Crypto.
           </div>
           <div className={styles.description}>
-            {tokenIdsMinted}/20 have been minted
+            {tokenIdsMinted}/30 have been minted
           </div>
           {renderButton()}
         </div>

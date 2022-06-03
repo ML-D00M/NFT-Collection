@@ -19,7 +19,7 @@ contract CryptoDevs is ERC721Enumerable, Ownable {
     bool public _paused;
 
     // max number of CryptoDevs
-    uint256 public maxTokenIds = 20;
+    uint256 public maxTokenIds = 30;
 
     // total number of tokenIds minted
     uint256 public tokenIds;
